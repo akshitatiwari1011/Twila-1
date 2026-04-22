@@ -1,1 +1,1 @@
-# Twila-1
+# Companion AI - Twila 
